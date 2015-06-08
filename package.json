@@ -1,0 +1,31 @@
+{
+  "name": "echo-missile",
+  "version": "0.2.0",
+  "description": "Class project to work with missiles ",
+  "main": "app.js",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "node-hid": "^0.3.2",
+    "thunder-connector": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jacksondoran/missile"
+  },
+  "keywords": [
+    "echo",
+    "missile",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Jackson Doran",
+  "license": "Mit",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/missile/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/missile"
+}
