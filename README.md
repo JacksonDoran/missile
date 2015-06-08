@@ -1,4 +1,7 @@
-This project is a series of files that controls the thunder connector software through a raspberry Pi. This features multiple different pieces of code. The main one that I made controls the missile launcher through your keyboard. 
+
+##Missile Launcher
+
+**This project is a series of files that controls the thunder connector software through a raspberry Pi. This features multiple different pieces of code. The main one that I made controls the missile launcher through your keyboard.**
 
  else if (key.name == 'left'){
     console.log("moved left");
@@ -8,6 +11,7 @@ This project is a series of files that controls the thunder connector software t
     fire();
   }
 
+#samplecode2
 
   ThunderConnector = require('thunder-connector');
 console.log(ThunderConnector);
@@ -25,13 +29,14 @@ This is a project I have been working on and creating for my seocnd trimester of
 
 
 To install: 
- Enter folder in which you wish to install
- type "sudo su" to becom super user
- Type "npm install "echo-missile"
- After install type "cd node_modules"
- Type "cd echo-missile"
- Type "ls"
- Here you will see all the files
- Type "sudo node "file name""
+ *Enter folder in which you wish to install
+ *Type "sudo su" to become super user
+ *Type "npm install "echo-missile"
+ *Type "sudo npm install node-hid"
+ *After install type "cd node_modules"
+ *Type "cd echo-missile"
+ *Type "ls"
+ *Here you will see all the files
+ *Type "sudo node "file name""
  
  License: MIT
