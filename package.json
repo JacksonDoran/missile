@@ -1,8 +1,8 @@
 {
   "name": "echo-missile",
-  "version": "0.2.0",
+  "version": "0.2.9",
   "description": "Class project to work with missiles ",
-  "main": "app.js",
+  "main": "jacksonmissile.js",
   "dependencies": {
     "keypress": "^0.2.1",
     "node-hid": "^0.3.2",
